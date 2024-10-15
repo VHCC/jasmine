@@ -8,16 +8,6 @@ A comic browser，support Android / iOS / MacOS / Windows / Linux.
 2. Please know local laws before using these codes
 3. The owner of the repo will not release these codes and its assets to the community outside github
 
-## Screenshot
-
-#### Browser
-
-![](images/app_screen.png)
-
-#### Reader
-
-![](images/reader_screen.png)
-
 ## Features
 
 - [x] Comics
